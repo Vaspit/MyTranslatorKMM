@@ -99,7 +99,7 @@ android {
 sqldelight {
     databases {
         create("TranslateDatabase") {
-            packageName.set("com.plcoding.translator_kmm.database")
+            packageName.set("com.example.my_translator_kmm.database")
         }
     }
 }
